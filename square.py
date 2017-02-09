@@ -5,3 +5,5 @@ def sq(a):
 
 x = sq(6)
 print (x)
+y=sq(10)
+print(y)
